@@ -17,3 +17,27 @@ Finally got myself to focus, The basic Abacus test function is finished and work
 
 I think I want to expand it into an entire math handling library, but that is a long term goal, for now Ill just settle on solving a few equations here and there.
 ---------------------------------------------------------------------------------------------------------------------------
+9/1/25
+
+working:
+  Factorials
+
+current:
+  Multiplication of decimals & fractionals
+
+Next up: 
+  update Factorials to handle decimals & fractionals
+  Division
+
+To-do:
+  Addition
+  Subtraction
+  powers
+  Square roots
+  Connect all sub funtions with GUI
+
+Speculative Ideas:
+  remote use?
+
+Doing a little work at the moment while I wake up and have some coffee, Then headed out to buy some supplies/clothes for work, will continue working on this after I get back.
+---------------------------------------------------------------------------------------------------------------------------
