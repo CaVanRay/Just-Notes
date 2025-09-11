@@ -7,7 +7,9 @@ off into terrible
 Multi-dimensional data coding:
     do I set it to 11 dimensions, or do I make it ask for a number at the start. I'll also need to setup some way to save and load previous sessions.
     Do all the dimensions overlap evenly? or do I limit them to tiers?
+    would it just be pointers? or can I find a way to store information at each location?
 
+    If I want it to be dynamic and the number of dimensions chose at the start each time it shouldn't be that hard to put together.
 
 ---------------------------------------------------------------------------------------------------------------------------
 9/10/25
