@@ -3,6 +3,14 @@
 
 Sometimes nothing bothers me and other times life is falling apart, but when I look back on previous things I wrote it feels like I'm so dramatic. That's really annoying.
 
+Learned something new yesterday that I havent had the chance to use yet.
+
+ceiling() & floor()
+
+    ceiling() returns the next hightest int
+        example: ceiling(2.4) = 3, ceiling(5.1) = 6, ceiling(7.0) = 7
+
+
 ---------------------------------------------------------------------------------------------------------------------------
 9/17/25
 
