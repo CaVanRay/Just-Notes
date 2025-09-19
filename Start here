@@ -10,6 +10,8 @@ ceiling() & floor()
     ceiling() returns the next hightest int
         example: ceiling(2.4) = 3, ceiling(5.1) = 6, ceiling(7.0) = 7
 
+    floor() returns the next lowest int
+        example: floor(2.4) = 2, floor(5.1) = 5, floor(7.0) = 7
 
 ---------------------------------------------------------------------------------------------------------------------------
 9/17/25
