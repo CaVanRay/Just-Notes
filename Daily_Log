@@ -5,6 +5,13 @@ Getting a lot done coding wise, just need to make sure I do actual work work tod
 
 I need to take a step away for a moment, chatgpt is pissing me off
 
+ok, I think I know what I need, it'll be massively bloated and resource intensive, but I'm going to follow every possible path
+and then return the length of the longest chain that works
+originally I was following the path of the first item to work, but chatgpt pointed out that this was a greedy process and would occasionally skip possibilities
+that could have been longer
+
+I thought that I covered these possibilities by starting over with each individual item as the hos (head of snake), but it doesnt cover all later paths
+
 ---------------------------------------------------------------------------------------------------------------------------
 9/24/25
 
