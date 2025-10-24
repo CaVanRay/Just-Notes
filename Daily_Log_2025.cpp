@@ -4,7 +4,7 @@
 
 All commits will be done remotely today
 
-This makes pushing updates alot easier
+This makes pushing updates alot easier, but from now on it is going to be harder to justify smaller commits
 
 -------------------------------------------------------------------------------------------------------------------------- -
 10 / 23 / 25
