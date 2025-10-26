@@ -4,7 +4,8 @@
 
 I need to do a few things today:
     - Sweep the house
-
+    - grab supplies for pasta this week
+	- Finish laundry
 
 -------------------------------------------------------------------------------------------------------------------------- -
 10 / 24 / 25
