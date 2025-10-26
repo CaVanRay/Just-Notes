@@ -7,6 +7,8 @@ I need to do a few things today:
     - grab supplies for pasta this week
 	- Finish laundry
 	- write some code
+    - Take a long shower
+
 
 
 -------------------------------------------------------------------------------------------------------------------------- -
