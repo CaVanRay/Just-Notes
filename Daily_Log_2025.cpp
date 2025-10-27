@@ -9,10 +9,10 @@ j*/
 
 I need to do a few things today:
     - Sweep the house
-    - grab supplies for pasta this week
-	- Finish laundry
-	- write some code
-    - Take a long shower
+    - grab supplies for pasta this week - Done
+	- Finish laundry - Done
+	- write some code - Done
+    - Take a long shower -Done
 
 
 
