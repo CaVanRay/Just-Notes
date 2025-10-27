@@ -4,6 +4,12 @@ j*/
 
 Good start to the day, I'm hitting the ground running, I just need to get into the habbit of doing this everyday
 
+Items for today:
+    - Look into file loading/saving from a program
+    - Read up on multi-file programs, see if Car-Catalogue could be easily split up into seperate files
+    - Read up on indie devs, nothing intense, just light reading on message boards
+    - Make pasta tonight
+    - go to bed early
 
 
 -------------------------------------------------------------------------------------------------------------------------- -
