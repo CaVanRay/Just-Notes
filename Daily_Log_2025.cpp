@@ -14,6 +14,7 @@ Things to do:
 	- figure out how to split up Car-Catalogue1.cpp into multiple files
     - Read up on indie devs
 
+I think I've got it setup so I can compile on my work laptop now
 -------------------------------------------------------------------------------------------------------------------------- -
 10 / 27 / 25
 
