@@ -15,6 +15,7 @@ Things to do:
     - Read up on indie devs
 
 I think I've got it setup so I can compile on my work laptop now
+Just need to install the windows developer sdk kit tomorrow
 -------------------------------------------------------------------------------------------------------------------------- -
 10 / 27 / 25
 
