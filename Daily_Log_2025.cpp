@@ -9,7 +9,10 @@ I don't know if I can survive today, but if I do I think things will be ok
 New turn signal lever is arriving tomorrow, if I get that installed before the weekend that would be good.
 I have to work on Saturday, so I won't be headed out to dad's this weekend, but I can at least be able to drive around town
 
-
+Things to do:
+    - Check out Leet code
+	- figure out how to split up Car-Catalogue1.cpp into multiple files
+    - Read up on indie devs
 
 -------------------------------------------------------------------------------------------------------------------------- -
 10 / 27 / 25
