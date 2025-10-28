@@ -16,6 +16,8 @@ Things to do:
 
 I think I've got it setup so I can compile on my work laptop now
 Just need to install the windows developer sdk kit tomorrow
+
+Hopefully I don't need to do it on my home pc, the day is almost over and I'm not sure if I have the energy to fuck with it when I get home
 -------------------------------------------------------------------------------------------------------------------------- -
 10 / 27 / 25
 
