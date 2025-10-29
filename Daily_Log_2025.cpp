@@ -6,6 +6,8 @@ feel a little like shit, but better than yesterday
 
 This has been the most productive not productive day
 
+Got actual work done, but strongly lacking in my personal projects
+
 -------------------------------------------------------------------------------------------------------------------------- -
 10 / 28 / 25
 
