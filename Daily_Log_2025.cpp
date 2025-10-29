@@ -4,6 +4,8 @@
 
 feel a little like shit, but better than yesterday
 
+This has been the most productive not productive day
+
 -------------------------------------------------------------------------------------------------------------------------- -
 10 / 28 / 25
 
