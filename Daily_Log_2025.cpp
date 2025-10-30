@@ -4,6 +4,7 @@
 
 Slowly waking up, drinking some coffee and gonna try to get some code written before work
 
+at work I have a few things I can focus on today
 
 
 
