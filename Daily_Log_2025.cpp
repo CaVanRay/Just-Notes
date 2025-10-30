@@ -9,6 +9,11 @@ at work I have a few things I can focus on today
 - Finish ticket review
 - Setup BrighSigns for saturday morning resets& updates
 
+Personal projects need to be focused
+- Flush out saveCatalogue()
+- Flush out loadCatalogue()
+
+
 -------------------------------------------------------------------------------------------------------------------------- -
 10 / 29 / 25
 
