@@ -6,8 +6,8 @@ Slowly waking up, drinking some coffee and gonna try to get some code written be
 
 at work I have a few things I can focus on today
 - Finish git & github video training
-
-
+- Finish ticket review
+- Setup BrighSigns for saturday morning resets& updates
 
 -------------------------------------------------------------------------------------------------------------------------- -
 10 / 29 / 25
