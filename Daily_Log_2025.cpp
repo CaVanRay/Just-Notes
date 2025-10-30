@@ -2,6 +2,8 @@
 -------------------------------------------------------------------------------------------------------------------------- -
 10 / 30 / 25
 
+Slowly waking up, drinking some coffee and gonna try to get some code written before work
+
 
 
 
