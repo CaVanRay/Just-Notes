@@ -4,6 +4,11 @@
 
 I'm ready for the weekend, just wish I didn't have to work tomorrow morning
 
+To-do at work today:
+    - Finish ticket reviews
+    - Finish PDEP
+    - Image a nuc for conference room
+
 -------------------------------------------------------------------------------------------------------------------------- -
 10 / 30 / 25
 
