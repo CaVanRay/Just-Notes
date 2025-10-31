@@ -13,6 +13,8 @@ Personal projects need to be focused
 - Flush out saveCatalogue()
 - Flush out loadCatalogue()
 
+This has been a weird day, but I stuck the landing
+
 
 -------------------------------------------------------------------------------------------------------------------------- -
 10 / 29 / 25
