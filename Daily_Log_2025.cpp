@@ -17,7 +17,7 @@ To-do coding today:
 To-do at home today:
     - Finish laundry - doing at home
     - Wash dishes - barely any, should be easy
-    - Sweep house
+    - Sweep house - This I may put off till tomorrow after work
 
 
 
