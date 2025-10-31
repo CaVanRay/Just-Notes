@@ -14,6 +14,7 @@ Personal projects need to be focused
 - Flush out loadCatalogue()
 
 This has been a weird day, but I stuck the landing
+I had a feeling that life was getting better, but now I'm sure
 
 
 -------------------------------------------------------------------------------------------------------------------------- -
