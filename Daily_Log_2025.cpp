@@ -14,6 +14,12 @@ To-do coding today:
     - Flush out loadCatalogue()
     - watch at least one video on coding GUI's
 
+To-do at home today:
+    - Finish laundry
+    - Wash dishes
+    - Sweep house
+
+
 
 -------------------------------------------------------------------------------------------------------------------------- -
 10 / 30 / 25
