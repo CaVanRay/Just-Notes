@@ -7,7 +7,7 @@ I'm ready for the weekend, just wish I didn't have to work tomorrow morning
 To-do at work today:
     - Finish ticket reviews - Done
     - Finish PDEP - Done
-    - Image a nuc for conference room
+    - Image a nuc for conference room - Didnt do today
 
 To-do coding today:
     - Flush out saveCatalogue()
