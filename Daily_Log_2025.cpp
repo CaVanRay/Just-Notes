@@ -10,7 +10,7 @@ To-do at work today:
     - Image a nuc for conference room - Didnt do today
 
 To-do coding today:
-    - Flush out saveCatalogue()
+    - Flush out saveCatalogue() - Barely
     - Flush out loadCatalogue()
     - watch at least one video on coding GUI's
 
