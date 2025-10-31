@@ -11,7 +11,7 @@ To-do at work today:
 
 To-do coding today:
     - Flush out saveCatalogue() - Barely
-    - Flush out loadCatalogue()
+    - Flush out loadCatalogue() - Barely
     - watch at least one video on coding GUI's
 
 To-do at home today:
