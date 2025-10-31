@@ -15,7 +15,7 @@ To-do coding today:
     - watch at least one video on coding GUI's - Waiting till home
 
 To-do at home today:
-    - Finish laundry
+    - Finish laundry - doing at home
     - Wash dishes
     - Sweep house
 
