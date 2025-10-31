@@ -9,6 +9,12 @@ To-do at work today:
     - Finish PDEP
     - Image a nuc for conference room
 
+To-do coding today:
+    - Flush out saveCatalogue()
+    - Flush out loadCatalogue()
+    - watch at least one video on coding GUI's
+
+
 -------------------------------------------------------------------------------------------------------------------------- -
 10 / 30 / 25
 
