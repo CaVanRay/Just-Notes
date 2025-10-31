@@ -20,6 +20,14 @@ To-do at home today:
     - Sweep house - This I may put off till tomorrow after work
 
 
+Jesus christ, I'm so fucking done rn, I can't even think due to lack of energy
+
+It's one of those days where I'm 30 minutes out from being free but it feels like theres a gaping hole in my chest
+
+so, as for today, I give up
+
+go fuck yourself
+
 
 -------------------------------------------------------------------------------------------------------------------------- -
 10 / 30 / 25
