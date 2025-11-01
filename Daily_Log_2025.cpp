@@ -10,6 +10,7 @@ Gonna try and get a few things done:
     - do laundry
 	- wash dishes
 	- sweep house
+	- write some code
 
 -------------------------------------------------------------------------------------------------------------------------- -
 10 / 31 / 25
