@@ -12,6 +12,7 @@ Gonna try and get a few things done:
 	- wash dishes
 	- sweep house
 	- write some code
+	- read some of my book
 
 -------------------------------------------------------------------------------------------------------------------------- -
 10 / 31 / 25
