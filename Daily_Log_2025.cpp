@@ -11,6 +11,7 @@ Gonna try and get a few things done:
         - start bedding
 	- wash dishes
 	- sweep house
+    - do some excersize
 	- write some code
 	- read some of my book
 	- Play some games
