@@ -4,6 +4,8 @@
 
 Today is a good day, it's only one day but it feels like it's been a week
 
+updates this morning went smoothly, had a rough patch trying to get home but I made it, now I'm just relaxing
+
 -------------------------------------------------------------------------------------------------------------------------- -
 10 / 31 / 25
 
