@@ -8,6 +8,7 @@ updates this morning went smoothly, had a rough patch trying to get home but I m
 
 Gonna try and get a few things done:
     - do laundry
+	- wash dishes
 
 -------------------------------------------------------------------------------------------------------------------------- -
 10 / 31 / 25
