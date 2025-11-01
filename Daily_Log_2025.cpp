@@ -13,6 +13,7 @@ Gonna try and get a few things done:
 	- sweep house
 	- write some code
 	- read some of my book
+	- Play some games
 
 -------------------------------------------------------------------------------------------------------------------------- -
 10 / 31 / 25
